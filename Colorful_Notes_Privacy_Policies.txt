@@ -9,15 +9,9 @@ Service only uses internet for ads provided by Google.
 Permissions:
 
 android.permission.RECORD_AUDIO
-android.permission.READ_INTERNAL_STORAGE
-android.permission.WRITE_INTERNAL_STORAGE
-These permissions are requested by the service for the making of voice notes that are only stored localy on the device used.
-
 android.permission.READ_EXTERNAL_STORAGE
 android.permission.WRITE_EXTERNAL_STORAGE
-android.permission.ACCESS_MEDIA_LOCATION
-android.permission.MANAGE_EXTERNAL_STORAGE
-These permissions are requested by the service only when the user requestes a backup (or restore) of their information (text and voice notes) which is only stored localy on thier device in a folder by the name of "Colorful Notes".
+These permissions are requested by the service for the making of voice notes that are only stored localy on the device used.
 
 Interpretation and Definitions
 
