@@ -1,0 +1,58 @@
+Privacy Policy – Pills Reminder
+
+Effective Date: August 14, 2025
+
+Pills Reminder (“we,” “our,” or “us”) respects your privacy and is committed to protecting it. This Privacy Policy explains how our app handles your information and why certain permissions are required.
+
+1. Information We Do Not Collect
+
+We do not collect, store, or share any personal data such as your name, email, or phone number.
+
+We do not track your location or monitor your usage outside of the app.
+
+All medication schedules, reminders, and notes are stored locally on your device and are not transmitted to us or any third party.
+
+2. Permissions We Use and Why
+
+RECEIVE_BOOT_COMPLETED
+
+Purpose: Ensures your medication reminders are automatically re-scheduled when your device restarts.
+
+Data Access: No personal information is collected or shared.
+
+USE_EXACT_ALARM & SCHEDULE_EXACT_ALARM
+
+Purpose: Allows the app to schedule medication reminders at precise times, even if the device is idle.
+
+Data Access: Only reminder times you set are used; this data stays on your device.
+
+POST_NOTIFICATIONS
+
+Purpose: Sends you notifications when it’s time to take your medication.
+
+Data Access: No personal information is accessed; notifications are generated locally.
+
+3. How Your Data Is Stored
+
+All reminder data is saved only on your device.
+
+If you uninstall the app, all stored data is permanently deleted from your device.
+
+4. Third-Party Services
+
+The app does not use analytics, advertising, or tracking services.
+
+No data is shared with third parties.
+
+5. Children’s Privacy
+
+Pills Reminder does not target or knowingly collect information from children under 13.
+
+6. Changes to This Policy
+
+We may update this Privacy Policy from time to time. Updates will be reflected with a new “Effective Date” at the top of this page.
+
+7. Contact Us
+
+If you have any questions or concerns about this Privacy Policy, you can contact us at:
+Email: moaztalaat6@gmail.com
